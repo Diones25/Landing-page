@@ -38,7 +38,7 @@
     }
 }
 .parallax{
-    background-image: url("/assets/img/bg-1.jpg");
+    background-image: url("../img/bg-1.jpg");
     min-height: 614px; 
     flex-direction: column;
     background-attachment: fixed;
@@ -55,7 +55,7 @@
     font-size: 1.4em;
 }
 .parallax2{
-    background-image: url("/assets/img/bg-2.jpg");
+    background-image: url("../img/bg-2.jpg");
     min-height: 320px; 
     flex-direction: column;
     background-attachment: fixed;
@@ -67,7 +67,7 @@
     text-shadow: 3px 1px 2px rgba(204, 204, 204, 1);
 }
 .parallax3{
-    background-image: url("/assets/img/bg-3.jpg");
+    background-image: url("../img/bg-3.jpg");
     min-height: 614px; 
     flex-direction: column;
     background-attachment: fixed;
